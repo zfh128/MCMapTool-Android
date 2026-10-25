@@ -18,4 +18,4 @@
 本项目代码完全开源，你甚至可以利用 Termux 部署本地 Node.js 服务器，实现 100% 纯离线运算（详细源码见 Releases 附件）。
 
 ---
-*Developed by a 11-year-old indie developer on an Android phone.Only suJava is supported
+*Developed by a 11-year-old indie developer on an Android phone.Only Java is supported
